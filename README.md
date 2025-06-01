@@ -1,2 +1,0 @@
-# autocore-arm
-autocore-arm
